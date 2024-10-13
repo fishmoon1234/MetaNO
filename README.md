@@ -1,7 +1,7 @@
 # MetaNO
 # A Meta-Learning Framework for Neural Operators
 
-![MetaNO Multi-Task Architecture Demo.](https://github.com/fishmoon1234/MetaNO/blob/main/architecture.png)
+![MetaNO Multi-Task Architecture Demo.](https://github.com/fishmoon1234/MetaNO/architecture.png)
 
 This repository houses the code for our paper published on Computer Methods in Applied Mechanics and Engineering:
 - [MetaNO: How to transfer your knowledge on learning hidden physics](https://doi.org/10.1016/j.cma.2023.116280)
