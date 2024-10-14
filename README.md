@@ -17,7 +17,7 @@ To run the synthetic dataset (HGO) example in the MetaNO paper
 ```
 python3 HGO_MetaTrain.py
 python3 HGO_MetaTest_valid.py
-python3 HGO_MetaTest_test
+python3 HGO_MetaTest_test.py
 ```
 
 ## Datasets
@@ -38,4 +38,4 @@ We provide the synthetic datasets that are used in the paper.
 ```
 
 ## Acknowledgement
-Special thanks to Dr. Ning Liu for his help in cleaning up the code.
+Special thanks to Dr. Ning Liu for his valuable discussion and help in the code.
